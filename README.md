@@ -39,37 +39,44 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-    - 🥅 frameworks: <br>
+ - 🥅 frameworks: <br>
     ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
     ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-- 💾 Databases:
+- 💾 Databases: <br>
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br> 
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github Stats</h2>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sarath-pm&theme=tokyonight&show_icons=true" width="460" height="150"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-pm&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="460" height="150"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" width="460" height="150"></td>
+  </tr>
+</table>
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=sarath-pm&theme=tokyonight&show_icons=true/460/300">
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-pm&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
-<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
-
-<br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
  <em><b>I love connecting with different people,</b> so if you want to say <b>hi, I'd be delighted to meet you!</b>😃</em>
  
 <br>
-## 📫 Contacto
-- 📧 Email: joaquincasasola29@gmail.com
+ 📫 Contacto :
+ <br>
+- 📧 Email: costillaalexisemanuel14@gmail.com
+<br>
 - 📍 Ubicación: Lomas de Zamora, Bs.As. Argentina
+<br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joaquincasasola" target="_blank">
+  <a href="(https://www.linkedin.com/in/alexis-costilla-6a0575277/)" target="_blank">
+    <br>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
